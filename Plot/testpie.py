@@ -34,7 +34,7 @@ for item in my_list:
     # print(temp1)
 
     # print(temp2)
-    if float(temp2) > 1000 and float(temp2) < 60000:
+    if float(temp2) > 5 and float(temp2) < 10:
         provinces.append(temp1)
         num.append(temp2)
         color_series.append(
@@ -62,13 +62,14 @@ pie1.set_colors(color_series)
 pie1.add("", [list(z) for z in zip(v, d)],
          radius=["30%", "135%"],
          center=["50%", "65%"],
-         rosetype="area"
+         rosetype="radius"
          )
-pie1.set_global_opts(title_opts=opts.TitleOpts(title='example'),
-                     legend_opts=opts.LegendOpts(is_show=False),
-                     toolbox_opts=opts.ToolboxOpts())
+pie1.set_global_opts(title_opts=opts.TitleOpts(title=''),
+                     legend_opts=opts.LegendOpts(
+                         is_show=True, pos_left='85%'),
+                     toolbox_opts=opts.ToolboxOpts(is_show=False))
 pie1.set_series_opts(label_opts=opts.LabelOpts(is_show=True, position="inside", font_size=12,
-                                               formatter="{b}:{c}day", font_style="italic",
+                                               formatter="{b}:{c}", font_style="italic",
                                                font_weight="bold", font_family="Microsoft YaHei"
                                                ),
                      )

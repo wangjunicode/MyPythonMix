@@ -2,3 +2,5 @@
 --- 2 cd install fold scripts. use  pip install xxxx(pyecharts, pandas)
 --- 3 git init
 --- 4 git remote add origin "https://github.com/wangjuniqq/MyPythonMix.git"
+--- 5 南丁格尔玫瑰图 testpie.py
+---6 result2.txt  resources 下所有prefab上的引用组件
