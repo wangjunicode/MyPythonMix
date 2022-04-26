@@ -1,0 +1,4 @@
+--- 1 install python  vscode install python done
+--- 2 cd install fold scripts. use  pip install xxxx(pyecharts, pandas)
+--- 3 git init
+--- 4 git remote add origin "https://github.com/wangjuniqq/MyPythonMix.git"
