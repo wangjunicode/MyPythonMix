@@ -1,0 +1,22 @@
+[
+    [
+        "NumLb",
+        "UILabel[]"
+    ],
+    [
+        "ShareBtn",
+        "UIButton"
+    ],
+    [
+        "KHSwitch",
+        "UISwitch"
+    ],
+    [
+        "AgeLb",
+        "UILabel"
+    ],
+    [
+        "MaskBtn",
+        "UIButton"
+    ]
+]
