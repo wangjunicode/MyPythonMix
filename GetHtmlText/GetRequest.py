@@ -8,7 +8,7 @@ per_num = 100
 
 final_res = []
 
-for i in range(1, 10):
+for i in range(1, 70):
     rsp1 = requests.get(
         'https://lab.uwa4d.com/api/solution/projects/ids?categories[]=Unity&limit={num1}&skip{num2}&sort=update_time'.format(num1=per_num, num2=cur_num))
 
@@ -21,11 +21,12 @@ for i in range(1, 10):
     rsp2Data = json.loads(rsp2.text)
 
     for item in rsp2Data["projects"]:
-        final_res.append(item["descCN"] + "  " + item["project_link"]+'\n')
+        final_res.append(
+            '- [{des}]({link})\n'.format(des=item["descCN"], link=item["project_link"]))
 
     cur_num = cur_num + per_num
 
 
-with open("GetHtmlText/1111.txt", "w", encoding="utf-8") as f:
+with open("GetHtmlText/1111.md", "w", encoding="utf-8") as f:
     for item in final_res:
         f.write(item)
