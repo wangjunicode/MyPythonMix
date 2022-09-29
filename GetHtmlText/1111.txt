@@ -1,0 +1,918 @@
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
+旧版（winforms）UnityLauncher的新高级wpf版本。  https://github.com/unitycoder/UnityLauncherPro
+用于libVLC的跨平台.NET / Mono绑定器  https://github.com/videolan/libvlcsharp
+Nine Chronicles的Unity客户端应用程序，这是一个由社区提供支持的完全分散的空闲MMORPG。  https://github.com/planetarium/NineChronicles
+Libplanet是一个用于以分散方式创建多人在线游戏的.NET库。  https://github.com/planetarium/libplanet
+一个通用的.NET组装模式“基础工作”  https://github.com/MonoMod/MonoMod
+Unity Render Streaming是一种通过浏览器提供Unity高质量渲染能力的解决方案。  https://github.com/Unity-Technologies/UnityRenderStreaming
+一个基于 3D 体素的 RPG，具有使用 Unity 制作的程序世界生成。  https://github.com/HFrajacomo/Draconic-Revolution
+一个在Unity时间轴中播放连续图像序列的包。  https://github.com/unity3d-jp/StreamingImageSequence
+本项目使用完整的 FFT 方法使用 Tessellation shader 制作海浪效果。  https://github.com/bearworks/URPOceanTessellation
+通用渲染管道上的海浪效果，适用于中端移动设备。  https://github.com/bearworks/URPOcean
+颤动的Unity 3D小部件，用于把物品颤振中嵌入Unity,适用于Android，iOS。  https://github.com/juicycleff/flutter-unity-view-widget
+GitHub Action 为不同的平台构建Unity项目。  https://github.com/game-ci/unity-builder
+：video_game：C＃的可视弹球引擎。  https://github.com/freezy/VisualPinball.Engine
+SCP：秘密实验室服务器的低级插件框架。它提供了一个事件系统供开发者钩子以操纵或更改游戏代码，或实现自己的功能。  https://github.com/Exiled-Team/EXILED
+完全自适应的基于对象的音频引擎，具有上混器、房间校正和空间化器，一键式完整的 Unity 音频引擎替换。  https://github.com/VoidXH/Cavern
+扩展和类可简化Unity中的开发。  https://github.com/oxters168/UnityHelpers
+Unity图形-包含可编写脚本的渲染管道。  https://github.com/Unity-Technologies/Graphics
+一站式服务，面向对VRchat内容开发感兴趣的人。  https://github.com/madjin/awesome-vrchat
+Unity 编辑器扩展，用于探索 Unity 场景中的所有 VRCSDK3 UdonBehaviours。  https://github.com/Varneon/UdonExplorer
+适用于我的个人项目的Unity DOTS框架。  https://github.com/Dreaming381/Latios-Framework
+FishNet：Unity Networking 的演进。  https://github.com/FirstGearGames/FishNet
+Unity RTS 风格的单元选择。  https://github.com/lexonegit/Unity-RTS-Selection
+用于.NET Core和Unity的零分配文本/结构化记录器，建立在Microsoft.Extensions.Logging之上。  https://github.com/Cysharp/ZLogger
+使用新的VFX Graph将MagicaVoxel项目导入Unity。  https://github.com/Zarbuz/VoxToVFX
+适用于Oxide Modding框架（现为uMod）的Rust游戏扩展。  https://github.com/OxideMod/Oxide.Rust
+用于 Unity 的轻量级、灵活、强大的着色器 GUI 系统。  https://github.com/JasonMa0012/LWGUI
+Unity3D的练习项目  https://github.com/XINCGer/Unity3DTraining
+Unity3D热更新，支持C ++或C＃。  https://github.com/fcscript/CSharpHotUpdate
+使用 Fancy Scroll View 的 Unity uGUI 轮播视图。  https://github.com/Haruma-K/FancyCarouselView
+Unity的最小依赖注入框架。  https://github.com/gustavopsantos/Reflex
+金庸群侠传3D重制版。  https://github.com/jynew/jynew
+自己积累的技术库，用于快速开发游戏。  https://github.com/chenwansal/JackFrame
+voxul 是 Unity 的体素框架和体素网格编辑工具。  https://github.com/cowtrix/voxul
+AppsFlyer Unity插件v5。  https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+C# 中的高效 Python 实现，通过 Unity IL2CPP 在每个平台上运行。  https://github.com/thautwarm/Traffy.UnityPython
+用于处理引擎资产、资产包和序列化文件的 GUI 应用程序。  https://github.com/AssetRipper/AssetRipper
+Unity Engine 的高性能、跨平台机器学习运行。  https://github.com/natmlx/NatML
+使用MelonLoader，用于IL2CPP Unity游戏的游戏内浏览器，调试器和编辑器控制台。
+  https://github.com/sinai-dev/UnityExplorer
+Unity框架。  https://github.com/ElasticSea/unity-framework
+JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，轻松制作可以热更新的游戏。  https://github.com/JasonXuDeveloper/JEngine
+UNET高级网络API（HLAPI）的社区版。  https://github.com/vis2k/Mirror
+Unity 编辑器扩展，用于构建具有属性的自定义检查器 [自定义编辑器、自定义检查器、检查器属性]。  https://github.com/codewriter-packages/Tri-Inspector
+修补 Unity3D 和 UnityHub 的所有版本。  https://github.com/tylearymf/UniHacker
+学习Unity Shader过程中的一些记录，特效，动画Demo。  https://github.com/csdjk/LearnUnityShader
+JCSUnity是一个组件驱动的框架，它允许用户快速生成常用的游戏机制和特性，例如UI功能和玩家移动。  https://github.com/jcs090218/JCSUnity
+一款简单易用、可高度配置的UGUI绘图制表插件  https://github.com/XCharts-Team/XCharts
+用于管理 C#/.Net 中的异步操作的强大而高效的库。  https://github.com/timcassell/ProtoPromise
+Unity WebGL 小游戏适配方案。  https://github.com/wechat-miniprogram/minigame-unity-webgl-transform
+ET的Unity3D 客户端和 C# 服务器框架。  https://github.com/egametang/ET
+使用C＃和Unity可视化和使用ROS数据的实用程序。 ROBDEKON项目的一部分。  https://github.com/KIT-ISAS/iviz
+新超级马里奥兄弟 DS 多人游戏模式“Mario vs Luigi”的独立 Unity 重制版。  https://github.com/ipodtouch0218/NSMB-MarioVsLuigi
+OpenUPM-开源Unity软件包注册表（UPM）。  https://github.com/openupm/openupm
+一个强大的实用模组，可扩展功能并为 Beat Saber 模组提供更多工具。  https://github.com/Auros/SiraUtil
+这个简单的包装器基于Richard Henninger的Csound6Net .NET包装器。  https://github.com/rorywalsh/CsoundUnity
+核心OASIS（开放式高级感官沉浸系统）API为我们的世界提供动力。  https://github.com/NextGenSoftwareUK/Our-World-OASIS-API-HoloNET-HoloUnity-And-.NET-HDK
+该软件包提供了用于创建和导出 Treasured Web Viewer 使用的文件的工具。  https://github.com/TB-Terence/treasured-sdk-for-unity
+Beat Saber中用于身体存在的自定义播放器模型。  https://github.com/nicoco007/BeatSaberCustomAvatars
+一个非常简单的卡通灯光着色器示例，让你能够学习在Unity URP中编写自定义灯光着色器。  https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+用于在Unity UI中构建用户界面的React渲染器。  https://github.com/ReactUnity/core
+将Unity的力量带给AVG。  https://github.com/Lunatic-Works/Nova
+HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。  https://github.com/focus-creative-games/hybridclr
+自定义导航网格避免替换 Unity 中的默认导航网格。  https://github.com/OlegDzhuraev/NavMeshAvoidance
+允许您在Unity中查看和编辑节点图  https://github.com/Siccity/xNode
+Bug Star 是为 2021 年 GitHub Game Off Game Jam 打造的游戏！  https://github.com/Harindulk/bug-star
+支持ReSharper和Rider的Unity插件。  https://github.com/JetBrains/resharper-unity
+Unity 中使用 Odin Inspector 编写脚本对象的数据库。  https://github.com/NuclearBand/UnityScriptableObjectDatabase
+MixedRealityToolkit-Unity使用了基础MixedRealityToolkit库中的代码，并让用户更易在Unity中使用。  https://github.com/microsoft/MixedRealityToolkit-Unity
+适用于 Unity 的 Firebase SDK。  https://github.com/firebase/firebase-unity-sdk
+用于改进 Unity 层次结构窗口的编辑器扩展。使层次结构更加详细，但仍然干净且易于组织。  https://github.com/truongnguyentungduy/hierarchy-2
+用于Unity的Cognitive3D SDK  - 用于VR / AR / MR的分析。  https://github.com/CognitiveVR/cvr-sdk-unity
+Unity 的 Epic 在线服务插件。  https://github.com/PlayEveryWare/eos_plugin_for_unity
+在旅游领域，尤其是博物馆参观中使用的虚拟现实眼镜技术的原型。  https://github.com/jojo58fr/AR-Museum
+Decentraland 客户端的Unity实现。  https://github.com/decentraland/unity-renderer
+充满激情的创作者的智能相机工具。  https://github.com/Unity-Technologies/com.unity.cinemachine
+在新的Unity网络框架上构建的小规模合作游戏样本，用于教给开发人员如何创建类似的多人游戏。  https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop
+RevenueCat Unity集成的支持文件。
+  https://github.com/RevenueCat/purchases-unity
+一键自动翻译整个游戏，使用统一本地化和Google API。  https://github.com/MaksymHernets/AutoTranslateForUnityLocalization
+官方Google Mobile Ads SDK的Unity插件  https://github.com/googleads/googleads-mobile-unity
+Unity Engine构建的游戏网络框架  https://github.com/Unity-Technologies/com.unity.netcode.gameobjects
+ROS TCP连接器。  https://github.com/Unity-Technologies/ROS-TCP-Connector
+适用于Unity的Leap Motion SDK。  https://github.com/ultraleap/UnityPlugin
+使用 Vehicle Physics Pro 在 Unity 中模拟 424。  https://github.com/PERRINN/project-424-unity
+FBX Exporter工具，用于在Unity和数字内容创建（DCC）工具（例如Maya和3DS Max）之间编辑和交换资产。  https://github.com/Unity-Technologies/com.unity.formats.fbx
+Unity Multiplayer的开源文档，其中包括MLAPI和Transport。  https://github.com/Unity-Technologies/com.unity.multiplayer.docs
+Unity 的开源网格切片/压裂实用程序。  https://github.com/dgreenheck/OpenFracture
+Unity的高效多功能输入系统。  https://github.com/Unity-Technologies/InputSystem
+Entitas是一个专门为C＃和Unity制作的实体组件框架（ECS）  https://github.com/sschmid/Entitas-CSharp
+3D 阿姆斯特丹 Unity 查看器项目的存储库。  https://github.com/Amsterdam/3DAmsterdam
+用 Haxe 编写的跨平台 2D 框架，可以原生导出到桌面（windows、mac、linux）、移动（ios、android）、web（js + webgl）和统一项目。  https://github.com/ceramic-engine/ceramic
+[来自 UPM，不隶属于 Unity Technologies。] 使用 Live Capture 包连接到 Unity Virtual Camera 和 Unity Face Capture 配套应用程序，以捕捉和记录相机运动和面部表现。  https://github.com/needle-mirror/com.unity.live-capture
+glTF是一个Unity插件，用于在运行时以聚集加速加载gITF 3D文件。这意味着快速启动（由于构建占用空间小）和快速解析/解码。  https://github.com/atteneder/glTFast
+BVH Unity工具。  https://github.com/emilianavt/BVHTools
+使用TypeScript在UE4引擎或Unity中编写游戏。  https://github.com/Tencent/puerts
+客户端API，用于访问Cryptolens Web API的功能。  https://github.com/Cryptolens/cryptolens-dotnet
+一个利用大厅、中继和网络代码的示例项目。  https://github.com/Matthew-J-Spencer/Unity-Matchmaking
+用于跨平台（iOS 和 Android）应用内购买和订阅基础设施、收入分析、参与自动化和集成的 Unity SDK。  https://github.com/qonversion/unity-sdk
+用于逆向统一的 IL2CPP 工具链的开发中工具。  https://github.com/SamboyCoding/Cpp2IL
+一个很小的脚本，可以直接从Habbo下载各种文件。  https://github.com/higoka/habbo-downloader
+允许您在运行编辑时中导入和导出glTF文件。 glTF是一种新的开源3d模型传输格式，它支持Unity的一切格式。  https://github.com/Siccity/GLTFUtility
+实用的高性能C#模块，尤其在Unity平台能带来令人难以置信的效益。  https://github.com/JasonXuDeveloper/Nino
